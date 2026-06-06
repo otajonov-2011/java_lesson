@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b195e0c-3237-4164-9cbd-04fa461fa029" name="Changes" comment="commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "otajonov-2011"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/otajonov-2011/java.git",
+    "accountId": "64c8d1ed-4625-4cb8-b489-6a90d8cf4d4e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="336CuuysqNq3lfZf8cfxRnMwfk9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Are.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarRacingFull.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Childclass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CreateFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ilova.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kelvin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.KmtoM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Masalalar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Metrsekund.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QoshishDasturi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadFile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sarvar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Telefon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UltimateCarRacing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.birxilson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bugun.executor&quot;: &quot;Run&quot;,
+    &quot;Application.example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f3gabolish.executor&quot;: &quot;Run&quot;,
+    &quot;Application.f5daraja.executor&quot;: &quot;Run&quot;,
+    &quot;Application.for23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.for_misollar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ga3bolish.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gazsvet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ifhafta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.math.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misol1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misol16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misol1767.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misol19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misol2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misol90.executor&quot;: &quot;Run&quot;,
+    &quot;Application.misoljava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mukammalson.executor&quot;: &quot;Run&quot;,
+    &quot;Application.musbat.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nolga.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pakindromenumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.raqamsoni.executor&quot;: &quot;Run&quot;,
+    &quot;Application.snowwww.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sonBoluvchisi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sonboluvchiqoshilishi.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sonlar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.swichhafta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;dev.sweep.assistant.data.RecentlyUsedFiles&quot;: &quot;src\\uz\\akromjon\\Telefon.java;src\\uz\\akromjon\\Main.java;src\\uz\\akromjon\\Are.java;src\\uz\\akromjon\\Method.java;src\\uz\\akromjon\\math.java&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Lesson&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/Lesson/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;sweep.chatMode&quot;: &quot;Agent&quot;,
+    &quot;sweep.selectedModel&quot;: &quot;Auto&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.akromjon.Main" />
+      <module name="Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.akromjon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="math" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.akromjon.math" />
+      <module name="Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.akromjon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="misol16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KepUzz.misol16" />
+      <module name="Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KepUzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="misol90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KepUzz.misol90" />
+      <module name="Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="KepUzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uz.akromjon.test" />
+      <module name="Lesson" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uz.akromjon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.misol90" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.misol16" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.math" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b195e0c-3237-4164-9cbd-04fa461fa029" name="Changes" comment="" />
+      <created>1758628362456</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758628362456</updated>
+      <workItem from="1758628373234" duration="1320000" />
+      <workItem from="1758798217418" duration="2194000" />
+      <workItem from="1759229103082" duration="6822000" />
+      <workItem from="1759401846361" duration="3208000" />
+      <workItem from="1759487412441" duration="4371000" />
+      <workItem from="1759574142468" duration="3620000" />
+      <workItem from="1759747609224" duration="3059000" />
+      <workItem from="1759753063085" duration="602000" />
+      <workItem from="1759767327421" duration="492000" />
+      <workItem from="1759768039565" duration="384000" />
+      <workItem from="1759837780023" duration="894000" />
+      <workItem from="1759919403430" duration="5944000" />
+      <workItem from="1759926329391" duration="419000" />
+      <workItem from="1760006779318" duration="4360000" />
+      <workItem from="1760092509051" duration="5471000" />
+      <workItem from="1760109043562" duration="1206000" />
+      <workItem from="1760178604441" duration="5757000" />
+      <workItem from="1760214174264" duration="8000" />
+      <workItem from="1760214203848" duration="14000" />
+      <workItem from="1760302275726" duration="6915000" />
+      <workItem from="1760522368096" duration="16000" />
+      <workItem from="1760523297714" duration="5821000" />
+      <workItem from="1760611557414" duration="1926000" />
+      <workItem from="1760614336354" duration="1588000" />
+      <workItem from="1760616854642" duration="1339000" />
+      <workItem from="1760696108850" duration="2275000" />
+      <workItem from="1760954330018" duration="5326000" />
+      <workItem from="1761043088450" duration="6024000" />
+      <workItem from="1761128191031" duration="782000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1780738358835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780738358835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1780738475570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780738475570</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1780738490866</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780738490866</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/uz/akromjon/ifhafta.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
